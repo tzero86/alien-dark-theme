@@ -3,6 +3,9 @@
   "displayName": "Alien Dark",
   "description": "A custom alien-friendly dark theme.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tzero86/alien-dark-theme.git",
   "engines": {
     "vscode": "^1.76.0"
   },
