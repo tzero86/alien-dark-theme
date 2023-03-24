@@ -1,0 +1,21 @@
+{
+  "name": "alien-dark",
+  "displayName": "Alien Dark",
+  "description": "A custom alien-friendly dark theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Alien Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Alien Dark-color-theme.json"
+      }
+    ]
+  }
+}
