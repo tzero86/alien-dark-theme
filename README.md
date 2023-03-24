@@ -4,6 +4,11 @@ Welcome to Alien Dark ðŸ‘½ - the VSCode dark theme that's out of this world! ðŸš
 
 Alien Dark is a dark theme for Visual Studio Code that's designed to be alien-friendly, with a sleek and modern look that's easy on the eyes. This theme is perfect for developers who want a unique, visually-stunning coding experience.
 
+I hope you like it!
+
+by @tzero86
+
+
 ## Screenshots
 
 ![Screenshot 1](/screenshots/screen1.jpeg)
