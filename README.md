@@ -14,11 +14,14 @@ by @tzero86
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screen1.jpeg)
 
-![Screenshot 2](screenshots/screen2.jpeg)
 
-![Screenshot 3](screenshots/screen3.jpeg)
+![screen1](https://user-images.githubusercontent.com/3419877/227427210-af0df6a0-5340-4d4a-936d-be039e4e4196.jpeg)
+![screen2](https://user-images.githubusercontent.com/3419877/227427233-f04519a2-dbe6-40f5-b9db-cc79e66977ba.jpeg)
+![screen3](https://user-images.githubusercontent.com/3419877/227427237-7c2b53dc-516e-405f-a7db-ac364e4dc0de.jpeg)
+
+
+
 
 ## Features
 
