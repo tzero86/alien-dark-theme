@@ -8,6 +8,13 @@ All notable changes to the "alien-dark" extension will be documented in this fil
 - Work on adding different accent colors for the theme so the user can select their favorite.
 - Add better logo for the marketplace.
 
+## [0.0.5] - 2023-24-03
+
+## [Changed]
+
+- Adjusted theme colors throughout the editor to be more consistent (still working on it)
+
+
 
 ## [0.0.4] - 2023-24-03
 

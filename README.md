@@ -20,9 +20,10 @@ by @tzero86
 
 ## Screenshots
 
-![screen1](https://user-images.githubusercontent.com/3419877/227555136-be129855-647a-40ba-bca2-c38899dce4a8.jpeg)
-![screen2](https://user-images.githubusercontent.com/3419877/227555142-9ca380e0-5aa2-4301-8c4e-a625287b8f70.jpeg)
-![screen3](https://user-images.githubusercontent.com/3419877/227555144-181a26b6-8f77-4174-bea9-7dd0dd9b0f83.jpeg)
+![screen1](https://user-images.githubusercontent.com/3419877/227630251-a8dc4e90-94b8-4840-8381-7b7036f28fa2.jpeg)
+![screen2](https://user-images.githubusercontent.com/3419877/227630256-576c8c73-da20-48be-9630-6fd7dffb631c.jpeg)
+![screen3](https://user-images.githubusercontent.com/3419877/227630257-cd581d19-917b-4577-9c10-dbd1a3e28745.jpeg)
+
 
 
 ## Features
