@@ -1,11 +1,17 @@
 # Alien Dark - An Alien-Friendly VSCode Dark Theme
 
+<img src="https://user-images.githubusercontent.com/3419877/227529059-51c4695a-2eb4-4c77-95a2-33d4871a8a73.jpeg" alt="Your image title" width="250"/>
+
 Welcome to Alien Dark 👽 - the VSCode dark theme that's out of this world! 🚀
 
 Alien Dark is a dark theme for Visual Studio Code that's designed to be alien-friendly, with a sleek and modern look that's easy on the eyes. This theme is perfect for developers who want a unique, visually-stunning coding experience.
 
+The initial version has been released, and I'm currently working on adding more features and improving the theme.
 
-NOTE: This theme is a work in progress, and I'm always looking for ways to improve it. Until I publish it, you can install it by downloading the repository, opening it in VSCode, and pressing F5 to run the theme extension.
+
+NOTE: This theme is a work in progress, and I'm always looking for ways to improve it.
+
+
 
 I hope you like it!
 
@@ -14,11 +20,9 @@ by @tzero86
 
 ## Screenshots
 
-
-
-![screen1](https://user-images.githubusercontent.com/3419877/227427210-af0df6a0-5340-4d4a-936d-be039e4e4196.jpeg)
-![screen2](https://user-images.githubusercontent.com/3419877/227427233-f04519a2-dbe6-40f5-b9db-cc79e66977ba.jpeg)
-![screen3](https://user-images.githubusercontent.com/3419877/227427237-7c2b53dc-516e-405f-a7db-ac364e4dc0de.jpeg)
+![screen1](https://user-images.githubusercontent.com/3419877/227528989-40a5f864-4530-4903-b9a7-f4c1847dfc17.jpeg)
+![screen2](https://user-images.githubusercontent.com/3419877/227528998-7e57d76d-e843-461e-9dc5-559b961f0403.jpeg)
+![screen3](https://user-images.githubusercontent.com/3419877/227529002-85cf8eef-85af-43bc-9c64-347417d21c11.jpeg)
 
 
 
