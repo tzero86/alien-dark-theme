@@ -1,6 +1,7 @@
 # Alien Dark - An Alien-Friendly VSCode Dark Theme
 
-<img src="https://user-images.githubusercontent.com/3419877/227529059-51c4695a-2eb4-4c77-95a2-33d4871a8a73.jpeg" alt="Your image title" width="250"/>
+<img src="https://user-images.githubusercontent.com/3419877/227555604-541e2602-8124-4e18-b130-58f37b882c30.png" alt="Your image title" width="250"/>
+
 
 Welcome to Alien Dark 👽 - the VSCode dark theme that's out of this world! 🚀
 
@@ -12,19 +13,16 @@ The initial version has been released, and I'm currently working on adding more 
 NOTE: This theme is a work in progress, and I'm always looking for ways to improve it.
 
 
-
-I hope you like it!
+I hope you like it! leave a comment or review, any feedback is welcome!
 
 by @tzero86
 
 
 ## Screenshots
 
-![screen1](https://user-images.githubusercontent.com/3419877/227528989-40a5f864-4530-4903-b9a7-f4c1847dfc17.jpeg)
-![screen2](https://user-images.githubusercontent.com/3419877/227528998-7e57d76d-e843-461e-9dc5-559b961f0403.jpeg)
-![screen3](https://user-images.githubusercontent.com/3419877/227529002-85cf8eef-85af-43bc-9c64-347417d21c11.jpeg)
-
-
+![screen1](https://user-images.githubusercontent.com/3419877/227555136-be129855-647a-40ba-bca2-c38899dce4a8.jpeg)
+![screen2](https://user-images.githubusercontent.com/3419877/227555142-9ca380e0-5aa2-4301-8c4e-a625287b8f70.jpeg)
+![screen3](https://user-images.githubusercontent.com/3419877/227555144-181a26b6-8f77-4174-bea9-7dd0dd9b0f83.jpeg)
 
 
 ## Features

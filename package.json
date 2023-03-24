@@ -2,9 +2,9 @@
   "name": "alien-dark",
   "displayName": "Alien Dark",
   "description": "A custom alien-friendly dark theme.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "tzero86",
-  "icon": "screenshots/icon.jpeg",
+  "icon": "screenshots/icon.png",
   "author": {
     "name": "tzero86",
     "email": "eliasmedina86@gmail.com"},

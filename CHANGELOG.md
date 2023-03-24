@@ -9,6 +9,13 @@ All notable changes to the "alien-dark" extension will be documented in this fil
 - Add better logo for the marketplace.
 
 
+## [0.0.4] - 2023-24-03
+
+## [Changed]
+
+- I keep changing syntax colors, want to get it right. (I'm not a designer)
+- New theme logo by  @cismatronica
+
 
 ## [0.0.3] - 2023-24-03
 
